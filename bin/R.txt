@@ -261,7 +261,7 @@ int id action_context_bar 0x7f06002e
 int id action_menu_divider 0x7f060027
 int id action_menu_presenter 0x7f060028
 int id action_mode_close_button 0x7f060035
-int id action_settings 0x7f06005d
+int id action_settings 0x7f06005f
 int id activity_chooser_view_content 0x7f060036
 int id alignBounds 0x7f060002
 int id alignMargins 0x7f060003
@@ -335,7 +335,9 @@ int id split_action_bar 0x7f06002f
 int id start 0x7f060010
 int id submit_area 0x7f06004a
 int id tabMode 0x7f060014
-int id textView2 0x7f06005b
+int id textView1 0x7f06005b
+int id textView2 0x7f06005d
+int id textView3 0x7f06005e
 int id title 0x7f06003c
 int id top 0x7f060004
 int id top_action_bar 0x7f060031
